@@ -1,5 +1,6 @@
-// CrazyColor made by https://wreeper.top/ 2019-2022
-// Requires jQuery, which can be downloaded by here: https://jquery.com/
+// CrazyColor made by https://wreeper.top/
+// Requires jQuery: https://jquery.com/
+// Use value from variable "colorc" !
 function generateCode(length, possible) {
 var colorcode = "";
 for (var i = 0; i < 6; i++)
